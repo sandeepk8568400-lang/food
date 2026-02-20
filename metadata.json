@@ -1,0 +1,5 @@
+{
+  "name": "Pixel to Code",
+  "description": "Instantly convert screenshots and UI designs into clean, production-ready HTML & Tailwind CSS code using Gemini AI.",
+  "requestFramePermissions": []
+}
